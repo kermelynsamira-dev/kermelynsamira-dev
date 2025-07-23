@@ -18,8 +18,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kermelynsamira-dev/kermelynsamira-dev/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/kermelynsamira-dev/kermelynsamira-dev/blob/output/github-contribution-grid-snake.svg">
-  <img alt="pacman contribution graph" src="https://github.com/kermelynsamira-dev/kermelynsamira-dev/blob/output/github-contribution-grid-snake.svg">
 </picture>
+
+![Pacman Contribution Graph](https://github.com/kermelynsamira-dev/kermelynsamira-dev/raw/output/pacman-contribution-graph.svg)
 
 ---
 
